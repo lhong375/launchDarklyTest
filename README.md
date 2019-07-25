@@ -1,3 +1,7 @@
+this is done via Getting started.
+https://docs.launchdarkly.com/docs/node-client-sdk-reference
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
